@@ -705,6 +705,10 @@ http://217.79.179.127:8081/RuOIYxwHD7sQiL2MnAnBaWaJsoF2Q4f9m0D43wVo2Wso/live/tvr
 #EXTINF:-1 tvg-id="prodvizhenie" group-title="Развлекательные", Продвижение
 http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
 
+#EXTINF:-1 tvg-id="ech" group-title="Развлекательные", Эх!
+#EXTVLCOPT:http-user-agent=SmartTV
+https://mhd128.iptv2022.com/p/I02wJyVF3hGcwvO_R8gGzg,1742504421/streaming/eh_tv/324/1/index.m3u8
+
 #EXTINF:-1 tvg-id="teatr" tvg-logo="https://iptvx.one/picons/teatr.png" group-title="Развлекательные",Театр
 #EXTVLCOPT:http-user-agent=SmartTV
 https://mhd128.iptv2022.com/p/8we_wbYD8qiyOqIto7Kpkw,1742504412/streaming/theater/324/1/tracks-v5a1/mono.m3u8
@@ -1118,26 +1122,17 @@ http://api.peers.tv/timeshift/tv1000_premium_hd/16/playlist.m3u8?token=eyJhbGciO
 #EXTINF:-1 group-title="Кино и сериалы", VIP PREMIERE HD
 http://130.193.73.10:8937/play/a03g
 
-#EXTINF:-1 group-title="Кино и сериалы",VIP PREMIERE
-https://livetv.mylifeisgood.net.ru/channels/viju-premiere.m3u8
-
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы",VIJU+ MEGAHIT HD
 http://api.peers.tv/timeshift/tv1000_megahit_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDI1NTAzODQsImlhdCI6MTc0MjQ2Mzk4NCwiY2lkIjo2LCJ1aWQiOjkwMjg2OTA1NSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.9p2sH-ELJfXL9NYeJBQkz5Qc4xflCNS9JhBUB0vjjf4&offset=3
 
 #EXTINF:-1 group-title="Кино и сериалы",VIP MEGAHIT HD
 http://91.205.199.3/vipmegahit/index.m3u8
 
-#EXTINF:-1 group-title="Кино и сериалы",VIP MEGAHIT
-https://livetv.mylifeisgood.net.ru/channels/viju-megahit.m3u8
-
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы", VIJU+ COMEDY HD
 http://api.peers.tv/timeshift/tv1000_comedy_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDI1NTAzODQsImlhdCI6MTc0MjQ2Mzk4NCwiY2lkIjo2LCJ1aWQiOjkwMjg2OTA1NSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.9p2sH-ELJfXL9NYeJBQkz5Qc4xflCNS9JhBUB0vjjf4&offset=3
 
 #EXTINF:-1 group-title="Кино и сериалы", VIP COMEDY HD
 http://91.205.199.3:80/vipcomedi/index.m3u8
-
-#EXTINF:-1 group-title="Кино и сериалы", VIP COMEDY
-https://livetv.mylifeisgood.net.ru/channels/viju-comedy.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы", VIJU+ SERIAL HD
 http://api.peers.tv/timeshift/viasat_golf_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDI1NTAzODQsImlhdCI6MTc0MjQ2Mzk4NCwiY2lkIjo2LCJ1aWQiOjkwMjg2OTA1NSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.9p2sH-ELJfXL9NYeJBQkz5Qc4xflCNS9JhBUB0vjjf4&offset=3
@@ -1152,21 +1147,17 @@ rtmp://212.0.213.132//Fenix_Kino
 #EXTVLCOPT:http-user-agent=SmartTV
 https://mhd128.iptv2022.com/p/deMMtrHe6I4IeaMjh8vjUg,1742504408/streaming/fenixkino/324/1/tracks-v5a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="ech" group-title="Кино и сериалы",Эх!
-#EXTVLCOPT:http-user-agent=SmartTV
-https://mhd128.iptv2022.com/p/I02wJyVF3hGcwvO_R8gGzg,1742504421/streaming/eh_tv/324/1/index.m3u8
-
 #EXTINF:-1 tvg-id="kineko" group-title="Кино и сериалы",Кинеко HD
 https://stream-msk-18.ott.tricolor.tv:443/dtv/id992_MSKSG-PVR-1--Kineko_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0Mjc5NTc1MywiaHdpZCI6IjU2NmM5YTVmNzYxZGYwYmYzYWQ5NDNkZmMyNjM0YzgyNjFhYjg3MjQyMTVkNDFhNjVmODZjMzI0ZmM5MGUxMDEiLCJsYXN0X3JlcV9kYXRlIjoxNzQyMTkwOTUzLCJzZXNzaW9uX2lkIjoiNmY2MjBjYmQwN2JmOGM3N2M5Y2Y4NGRkMTc4NmEyNGYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.25d6ImROxOXX5kg5gf5CfGKkZKXM0N5jWZ--0zleEho
 
 #EXTINF:-1 tvg-id="sapfir" group-title="Кино и сериалы", Сапфир HD
 https://stream-msk-17.ott.tricolor.tv/dtv/id991_MSKSG-PVR-1--Sapphire_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0Mjc5NTc1MywiaHdpZCI6IjU2NmM5YTVmNzYxZGYwYmYzYWQ5NDNkZmMyNjM0YzgyNjFhYjg3MjQyMTVkNDFhNjVmODZjMzI0ZmM5MGUxMDEiLCJsYXN0X3JlcV9kYXRlIjoxNzQyMTkwOTUzLCJzZXNzaW9uX2lkIjoiNmY2MjBjYmQwN2JmOGM3N2M5Y2Y4NGRkMTc4NmEyNGYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.25d6ImROxOXX5kg5gf5CfGKkZKXM0N5jWZ--0zleEho
 
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="tv1000-russkoe-kino" group-title="Кино и сериалы",Viju TV1000 Русское
-http://api.peers.tv/timeshift/tv_1000_rus_kino/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDI1NTAzODQsImlhdCI6MTc0MjQ2Mzk4NCwiY2lkIjo2LCJ1aWQiOjkwMjg2OTA1NSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.9p2sH-ELJfXL9NYeJBQkz5Qc4xflCNS9JhBUB0vjjf4&offset=3
+#EXTINF:-1 tvg-id="tv1000-russkoe-kino" group-title="Кино и сериалы",Viju TV1000 Русское
+http://31.173.165.29:8000/play/a013/index.m3u8
 
-#EXTINF:-1 tvg-id="tv1000-russkoe-kino" group-title="Кино и сериалы",Viju TV1000 Русское HD
-https://livetv.mylifeisgood.net.ru/channels/viju-tv1000russkoe.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="tv1000-russkoe-kino" group-title="Кино и сериалы",Viju TV1000 Русское HD
+http://api.peers.tv/timeshift/tv_1000_rus_kino/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDI1NTAzODQsImlhdCI6MTc0MjQ2Mzk4NCwiY2lkIjo2LCJ1aWQiOjkwMjg2OTA1NSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.9p2sH-ELJfXL9NYeJBQkz5Qc4xflCNS9JhBUB0vjjf4&offset=3
 
 #EXTINF:-1 tvg-id="tv1000" group-title="Кино и сериалы", Viju TV1000
 http://91.205.199.3/tv1000/index.m3u8
