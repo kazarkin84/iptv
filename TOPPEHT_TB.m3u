@@ -6,7 +6,7 @@ http://127.0.0.1:6878/ace/getstream?id=50bc2f512793f1e745fb5bd5b5a6afca199c2d19
 http://127.0.0.1:6878/ace/getstream?id=8599818264dd7fdc068ac0a9fac8447fd52ad270
 #EXTINF:-1 group-title="Центральные",Россия 1 HD
 http://127.0.0.1:6878/ace/getstream?id=9644f162efbefc1b38601eeaeeed25591fd2832e
-#EXTINF:-1 group-title="Центральные",Россия РТР
+#EXTINF:-1 group-title="Центральные", РТР-Планета Азия
 http://127.0.0.1:6878/ace/getstream?id=8410d13737ac090732898be21e6dd55dabb031fe
 #EXTINF:-1 group-title="Центральные",ТНТ4 HD
 http://127.0.0.1:6878/ace/getstream?id=da27959a3e9ee97647df5aadd056021099e2d845
@@ -48,7 +48,7 @@ http://127.0.0.1:6878/ace/getstream?id=b2fe281859c9bd201fd07234693f0fe360b0b339
 http://127.0.0.1:6878/ace/getstream?id=09f099db0453cf7517e133533aadfd5136eca771
 #EXTINF:-1 group-title="Познавательные",Моя планета HD
 http://127.0.0.1:6878/ace/getstream?id=bc956bc36a6384474f1b613638c79291e0ee3c14
-#EXTINF:-1 group-title="Познавательные",Мир Вокруг HD
+#EXTINF:-1 tvg-id="mir-vokrug" group-title="Познавательные", Мир вокруг
 http://127.0.0.1:6878/ace/getstream?id=d9ae276d2fd84dadc6e3a7ad70381f22cc8e1613
 #EXTINF:-1 group-title="Познавательные",Первый космический HD
 http://127.0.0.1:6878/ace/getstream?id=65707378011c08c27dca1f0162d545f369756c5f
@@ -98,7 +98,7 @@ http://127.0.0.1:6878/ace/getstream?id=9f7dd05a3f443890373824ee399423c747214568
 http://127.0.0.1:6878/ace/getstream?id=a4d2d63c562696b5ef7731efb7c2df74d9183700
 #EXTINF:-1 group-title="Фильмы",Хит HD
 http://127.0.0.1:6878/ace/getstream?id=3eb0fde3eb9b432b6a978742e73dccf4ec0c5b5d
-#EXTINF:-1 group-title="Фильмы",Феникс Плюс Кино
+#EXTINF:-1 group-title="Фильмы",Феникс+Кино
 http://127.0.0.1:6878/ace/getstream?id=505d4c6259acfea0ee5d9b1f26f7badd447f69f6
 #EXTINF:-1 group-title="Познавательные",Усадьба
 http://127.0.0.1:6878/ace/getstream?id=8753c67ddaedb391cca8e6a043ec85999f6b3199
@@ -132,7 +132,7 @@ http://127.0.0.1:6878/ace/getstream?id=3b35986d4455f25cc8a28d666bb2ca8b638986de
 http://127.0.0.1:6878/ace/getstream?id=c33dc2a170db91a6b0c8bb1f9583b008122cdf8c
 #EXTINF:-1 group-title="Фильмы",Романтичное HD
 http://127.0.0.1:6878/ace/getstream?id=19bf6faf7257fb5db419008750d80ab4b693981e
-#EXTINF:-1 group-title="Центральные" tvg-id="piatnica-int",Пятница International
+#EXTINF:-1 group-title="Центральные" tvg-id="piatnica-int", Пятница! International
 http://127.0.0.1:6878/ace/getstream?infohash=2b78b24cf202048ce17b9378b52e2fb8f89168bd
 #EXTINF:-1 group-title="Центральные",Пятница HD
 http://127.0.0.1:6878/ace/getstream?id=10d62d03d9fd2a9e84f639ed40a42e6a13940fce
@@ -352,7 +352,7 @@ http://127.0.0.1:6878/ace/getstream?id=c3aa52aab6bd48c3b79189410fbf716f2e4dd293
 http://127.0.0.1:6878/ace/getstream?id=6c82a952053419ef358907fc2fc52151626be0b7
 #EXTINF:-1 group-title="4К",BCU Premiere Ultra 4K
 http://127.0.0.1:6878/ace/getstream?id=30b1dba65edffa2c0c8ade75257508b00d8a61ea
-#EXTINF:-1 group-title="4К",Русский Экстрим UHD 4K
+#EXTINF:-1 group-title="4К", Russian Extreme UHD
 http://127.0.0.1:6878/ace/getstream?id=9214a597a38ed669aba1fe73351a580b1a77ce6e
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://iptvx.one/picons/serial-ultrahd.png" group-title="4К",СЕРИАЛ UHD
 http://127.0.0.1:6878/ace/getstream?id=3a71745381e1a6821a881c96a230b6cd365d4da5
@@ -360,7 +360,7 @@ http://127.0.0.1:6878/ace/getstream?id=3a71745381e1a6821a881c96a230b6cd365d4da5
 http://127.0.0.1:6878/ace/getstream?id=038b448c810cad19a2a9e615d94696a23141e379
 #EXTINF:-1 group-title="4К",Ultra HD Cinema
 http://127.0.0.1:6878/ace/getstream?id=6c76dccd15ff935fb1442223529d1aecc8f515d8
-#EXTINF:-1 group-title="4К" tvg-logo="http://ottpink.network/picons/uhd1tv.png",UHD1 4K
+#EXTINF:-1 tvg-id="no_epg_cinema" group-title="4К" tvg-logo="http://ottpink.network/picons/uhd1tv.png", UHD1 4K
 http://127.0.0.1:6878/ace/getstream?id=70a2ac1aaff849c5e93dffd709cfb8637384c8b2
 #EXTINF:-1 tvg-id="rtl" tvg-logo="https://gfu.de/wp-content/uploads/2021/04/tg-uhd-programme-rtl.jpg" group-title="4К", RTL UHD
 http://127.0.0.1:6878/ace/getstream?id=45ed51e89ea0bd4d2ced6640a5ef4b3524a07744
@@ -480,7 +480,7 @@ http://127.0.0.1:6878/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9
 http://127.0.0.1:6878/ace/getstream?id=ffbf8c687c788d9a1a7c651e24802ee773ff3f04
 #EXTINF:-1 group-title="Спорт",Матч! Футбол 3 HD
 http://127.0.0.1:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e
-#EXTINF:-1 group-title="Спорт",Матч ТВ HD
+#EXTINF:-1 group-title="Спорт", Матч! HD
 http://127.0.0.1:6878/ace/getstream?id=a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
 #EXTINF:-1 group-title="Спорт",Матч! Страна
 http://127.0.0.1:6878/ace/getstream?id=ef9c77bd94783448b8edb552109f5f15b2bd82d1
@@ -581,21 +581,21 @@ http://127.0.0.1:6878/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b26d&
 #EXTINF:-1 tvg-id="sky-sports-maine" group-title="Спорт", Sky Sports Main Event HD
 http://127.0.0.1:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e&.mp4
 
-#EXTINF:-1 tvg-logo="https://pacificsciencecenter.org/wp-content/uploads/2022/06/Amazon-logo.png" tvg-id="no_epg_sport" group-title="Спорт",AMAZON PRIME VIDEO 1 HD
+#EXTINF:-1 tvg-logo="https://www.32cars.ru/uploads/materials/1114/inner/jMhDvoPZuMlooW06WjCS.jpg" tvg-id="no_epg_sport" group-title="Спорт",AMAZON PRIME VIDEO 1 HD
 http://127.0.0.1:6878/ace/getstream?id=5323ccadb659f7d3cb5fa2e5835c5af362e144d6&.mp4
-#EXTINF:-1 tvg-logo="https://pacificsciencecenter.org/wp-content/uploads/2022/06/Amazon-logo.png" tvg-id="no_epg_sport" group-title="Спорт",AMAZON PRIME VIDEO 2 HD
+#EXTINF:-1 tvg-logo="https://www.32cars.ru/uploads/materials/1114/inner/jMhDvoPZuMlooW06WjCS.jpg" tvg-id="no_epg_sport" group-title="Спорт",AMAZON PRIME VIDEO 2 HD
 http://127.0.0.1:6878/ace/getstream?id=2926e34c63d83764f9c6671da53397d55041b4ea&.mp4
-#EXTINF:-1 tvg-logo="https://pacificsciencecenter.org/wp-content/uploads/2022/06/Amazon-logo.png" tvg-id="no_epg_sport" group-title="Спорт",AMAZON PRIME VIDEO 3 HD
+#EXTINF:-1 tvg-logo="https://www.32cars.ru/uploads/materials/1114/inner/jMhDvoPZuMlooW06WjCS.jpg" tvg-id="no_epg_sport" group-title="Спорт",AMAZON PRIME VIDEO 3 HD
 http://127.0.0.1:6878/ace/getstream?id=7b979c38e2565ea0ce4c6ec3c13f6edf05b0c08c&.mp4
-#EXTINF:-1 tvg-logo="https://pacificsciencecenter.org/wp-content/uploads/2022/06/Amazon-logo.png" tvg-id="no_epg_sport" group-title="Спорт",AMAZON PRIME VIDEO 4 HD
+#EXTINF:-1 tvg-logo="https://www.32cars.ru/uploads/materials/1114/inner/jMhDvoPZuMlooW06WjCS.jpg" tvg-id="no_epg_sport" group-title="Спорт",AMAZON PRIME VIDEO 4 HD
 http://127.0.0.1:6878/ace/getstream?id=77697d1e2f382196dd156ed384e84c62fc7d32f7&.mp4
-#EXTINF:-1 tvg-logo="https://pacificsciencecenter.org/wp-content/uploads/2022/06/Amazon-logo.png" tvg-id="no_epg_sport" group-title="Спорт",AMAZON PRIME VIDEO 5 HD
+#EXTINF:-1 tvg-logo="https://www.32cars.ru/uploads/materials/1114/inner/jMhDvoPZuMlooW06WjCS.jpg" tvg-id="no_epg_sport" group-title="Спорт",AMAZON PRIME VIDEO 5 HD
 http://127.0.0.1:6878/ace/getstream?id=d3634268718c6e52cde4a34d0e75cffef26c1ba9&.mp4
-#EXTINF:-1 tvg-logo="https://pacificsciencecenter.org/wp-content/uploads/2022/06/Amazon-logo.png" tvg-id="no_epg_sport" group-title="Спорт",AMAZON PRIME VIDEO 6 HD
+#EXTINF:-1 tvg-logo="https://www.32cars.ru/uploads/materials/1114/inner/jMhDvoPZuMlooW06WjCS.jpg" tvg-id="no_epg_sport" group-title="Спорт",AMAZON PRIME VIDEO 6 HD
 http://127.0.0.1:6878/ace/getstream?id=26e31f091414fb036917a255b4adaf12b2f3da5b&.mp4
-#EXTINF:-1 tvg-logo="https://pacificsciencecenter.org/wp-content/uploads/2022/06/Amazon-logo.png" tvg-id="no_epg_sport" group-title="Спорт",AMAZON PRIME VIDEO 7 HD
+#EXTINF:-1 tvg-logo="https://www.32cars.ru/uploads/materials/1114/inner/jMhDvoPZuMlooW06WjCS.jpg" tvg-id="no_epg_sport" group-title="Спорт",AMAZON PRIME VIDEO 7 HD
 http://127.0.0.1:6878/ace/getstream?id=160b4b508a11f8c8b5c6e0e62ac04a437e00bb67&.mp4
-#EXTINF:-1 tvg-logo="https://pacificsciencecenter.org/wp-content/uploads/2022/06/Amazon-logo.png" tvg-id="no_epg_sport" group-title="Спорт",AMAZON PRIME VIDEO 8 HD
+#EXTINF:-1 tvg-logo="https://www.32cars.ru/uploads/materials/1114/inner/jMhDvoPZuMlooW06WjCS.jpg" tvg-id="no_epg_sport" group-title="Спорт",AMAZON PRIME VIDEO 8 HD
 http://127.0.0.1:6878/ace/getstream?id=3a21b411e9b764efefc0c2166ca07f4655b3d31c&.mp4
 #EXTINF:-1 tvg-logo="http://cdn.broadbandtvnews.com/wp-content/uploads/2015/12/14120446/Ziggo_Sport.jpg" tvg-id="no_epg_sport" group-title="Спорт",Ziggo Sport Tennis
 http://127.0.0.1:6878/ace/getstream?id=035e34b791335962ca817f42fd14300382af3797&.mp4
