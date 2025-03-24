@@ -47,7 +47,7 @@ http://127.0.0.1:6878/ace/getstream?id=b2fe281859c9bd201fd07234693f0fe360b0b339
 #EXTINF:-1 group-title="Познавательные",Discovery HD
 http://127.0.0.1:6878/ace/getstream?id=09f099db0453cf7517e133533aadfd5136eca771
 #EXTINF:-1 group-title="Познавательные", Investigation Discovery Europe
-http://127.0.0.1:6878/ace/getstream?infohash=4ca8e9b3fddb87537bd786f49f508da2f9a84289
+http://127.0.0.1:6878/ace/getstream?id=4ca8e9b3fddb87537bd786f49f508da2f9a84289
 #EXTINF:-1 group-title="Познавательные",Моя планета HD
 http://127.0.0.1:6878/ace/getstream?id=bc956bc36a6384474f1b613638c79291e0ee3c14
 #EXTINF:-1 tvg-id="mir-vokrug" group-title="Познавательные", Мир вокруг
