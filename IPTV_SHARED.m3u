@@ -6,7 +6,7 @@ https://raw.githubusercontent.com/IPTVSHARED/iptv/refs/heads/main/LOGO_FHD.mp4
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="https://raw.githubusercontent.com/IPTVSHARED/iptv/refs/heads/main/logo.jpg" group-title="ИНФО", Поддержка проекта
 https://raw.githubusercontent.com/IPTVSHARED/iptv/refs/heads/main/YouCut_20250317_151519049.mp4
 
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="ИНФО", ОБНОВЛЕНИЕ: 26.03.2025г 1
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="ИНФО", ОБНОВЛЕНИЕ: 26.03.2025г 2
 #EXTVLCOPT:http-user-agent=SmartTV
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
 
@@ -464,7 +464,7 @@ http://87.120.142.11:18000/Rossiya1
 https://top2new.koskoros.ru/top2/premium400/mono.m3u8
 
 #EXTINF:-1 tvg-id="sky-sport-f1-it" group-title="Спортивные", Sky Sport F1 [IT]
-https://bl.rutube.ru/livestream/920a9c2aa191bc403fef13ad449ad6fa/index.m3u8?s=MYwom200BxhBbu-XKAU_kQ&e=1742979824&scheme=https
+https://bl.rutube.ru/livestream/920a9c2aa191bc403fef13ad449ad6fa/index.m3u8?s=xVcZ1vzsAnzAcAby9XrDNQ&e=1743023032&scheme=https
 
 #EXTINF:-1 tvg-id="fox-sports1-mx" group-title="Спортивные", Fox Sports [MX]
 http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
@@ -829,7 +829,7 @@ http://31.47.199.45:1403/nature/index.m3u8
 http://api.peers.tv/timeshift/viasat_nature/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDMwMzA5ODAsImlhdCI6MTc0Mjk0NDU4MCwiY2lkIjo2LCJ1aWQiOjkwNDM3MzA1NiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.LrbLilbqwcBm3WI-wAIkigfcZu_t57S3iDIbuTLHkTg&offset=3
 
 #EXTINF:-1 group-title="Познавательные",Viju Explore
-http://31.173.165.29:8000/play/a014/index.m3u8
+http://130.193.73.10:8937/play/a01j
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Познавательные",Viasat Explore HD
 http://api.peers.tv/timeshift/viasat_explorer/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDMwMzA5ODAsImlhdCI6MTc0Mjk0NDU4MCwiY2lkIjo2LCJ1aWQiOjkwNDM3MzA1NiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.LrbLilbqwcBm3WI-wAIkigfcZu_t57S3iDIbuTLHkTg&offset=3
@@ -865,7 +865,7 @@ https://tv.movielab.pro/162/video.m3u8?token=9aadacc54083297c3fefe58b4be2c53478f
 https://tv.movielab.pro/143/video.m3u8?token=5a2a8c244a1bfe26855e9ba8566028cd942720e5-c2c631988e3c07522b59c9d6e978b115-1743019077-1742932677
 
 #EXTINF:-1 tvg-id="national-geographic" group-title="Познавательные", National Geographic HD
-https://bl.rutube.ru/livestream/9f96e00ce0f4256c6ad608aaf580bf88/index.m3u8?s=YL4fV931LfRv1-EHF73YvQ&e=1742979827&scheme=https
+https://bl.rutube.ru/livestream/9f96e00ce0f4256c6ad608aaf580bf88/index.m3u8?s=P6EeS333nstgWf7gKqPy3Q&e=1743023084&scheme=https
 
 #EXTINF:-1 tvg-id="discovery-channel" group-title="Познавательные", Discovery HD
 http://65.21.85.175:8000/play/a02u/index.m3u8?token=livetv
@@ -880,7 +880,7 @@ https://tv.movielab.pro/147/video.m3u8?token=2db7be11a2b5c5225551f7778b6bd6f5a44
 http://65.21.85.175:8000/play/a01s/index.m3u8?token=livetv
 
 #EXTINF:-1 tvg-id="hgtv" group-title="Познавательные", HGTV HD
-https://bl.rutube.ru/livestream/e47323270d6128efe76594deede78394/index.m3u8?s=ELLlchCZwNO4YZ4ozuHDxA&e=1742979808&scheme=https
+https://bl.rutube.ru/livestream/e47323270d6128efe76594deede78394/index.m3u8?s=5uzThbR1HbNXnNRkARDFYg&e=1743023011&scheme=https
 
 #EXTINF:-1 tvg-id="hgtv" group-title="Познавательные", HGTV Home & Garden HD
 http://91.146.94.234:10000/play/a05e
@@ -907,7 +907,7 @@ https://live-mirror-18.ott.tricolor.tv/dtv/id990_MSKSG-PVR-1--We_HD/02/plst.m3u8
 https://stream-msk-05.ott.tricolor.tv:443/dtv/id367_MSKSG-PVR-1--Poehali/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0MzM5MDk0MywiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQyNzg2MTQzLCJzZXNzaW9uX2lkIjoiMTlmZmI5ZjZhY2I2MmMwMTQxOGE4ZjVkNDNkMDc2MzkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.CpOOvo4OSleQS9BbQeu7ukun6IQUX9U2__GRP12SkKM
 
 #EXTINF:-1 tvg-id="tlc" group-title="Познавательные",TLC HD
-https://bl.rutube.ru/livestream/8c3fd60f7eb84e7b564d3029d2a833f5/index.m3u8?s=_e0hdnNjiZ-Ua_X-4_nfGQ&e=1742979810&scheme=https
+https://bl.rutube.ru/livestream/8c3fd60f7eb84e7b564d3029d2a833f5/index.m3u8?s=cikjiMWc_pEFMGa1Suqj1A&e=1743023013&scheme=https
 
 #EXTINF:-1 tvg-id="tlc" group-title="Познавательные",TLC Россия HD
 http://91.146.94.234:10000/play/a05k
@@ -1134,19 +1134,13 @@ http://api.peers.tv/timeshift/nasha_sibir/16/playlist.m3u8?token=eyJhbGciOiJIUzI
 http://api.peers.tv/timeshift/tv1000_premium_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDMwMzA5ODAsImlhdCI6MTc0Mjk0NDU4MCwiY2lkIjo2LCJ1aWQiOjkwNDM3MzA1NiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.LrbLilbqwcBm3WI-wAIkigfcZu_t57S3iDIbuTLHkTg&offset=3
 
 #EXTINF:-1 group-title="Кино и сериалы", VIP PREMIERE HD
-http://31.173.165.29:8000/play/a036/index.m3u8
+http://130.193.73.10:8937/play/a03g
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы",VIJU+ MEGAHIT HD
 http://api.peers.tv/timeshift/tv1000_megahit_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDMwMzA5ODAsImlhdCI6MTc0Mjk0NDU4MCwiY2lkIjo2LCJ1aWQiOjkwNDM3MzA1NiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.LrbLilbqwcBm3WI-wAIkigfcZu_t57S3iDIbuTLHkTg&offset=3
 
-#EXTINF:-1 group-title="Кино и сериалы",VIP MEGAHIT HD
-http://31.173.165.29:8000/play/a035/index.m3u8
-
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы", VIJU+ COMEDY HD
 http://api.peers.tv/timeshift/tv1000_comedy_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDMwMzA5ODAsImlhdCI6MTc0Mjk0NDU4MCwiY2lkIjo2LCJ1aWQiOjkwNDM3MzA1NiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.LrbLilbqwcBm3WI-wAIkigfcZu_t57S3iDIbuTLHkTg&offset=3
-
-#EXTINF:-1 group-title="Кино и сериалы", VIP COMEDY HD
-http://31.173.165.29:8000/play/a034/index.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы", VIJU+ SERIAL HD
 http://api.peers.tv/timeshift/viasat_golf_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDMwMzA5ODAsImlhdCI6MTc0Mjk0NDU4MCwiY2lkIjo2LCJ1aWQiOjkwNDM3MzA1NiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.LrbLilbqwcBm3WI-wAIkigfcZu_t57S3iDIbuTLHkTg&offset=3
@@ -1890,43 +1884,46 @@ https://live-mirror-15.ott.tricolor.tv/dtv/id908_MSKSG-PVR-1--Kinozal_9/04/plst.
 https://live-mirror-19.ott.tricolor.tv/dtv/id1018_MSKSG-PVR-1--Kinozal30_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0MzM5MDk0MywiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQyNzg2MTQzLCJzZXNzaW9uX2lkIjoiMTlmZmI5ZjZhY2I2MmMwMTQxOGE4ZjVkNDNkMDc2MzkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.CpOOvo4OSleQS9BbQeu7ukun6IQUX9U2__GRP12SkKM
 
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://дкмедведева.рф/media/2024/08/20/1330447914/2.jpg" group-title="Кинозалы Rutube", HollyWood Movies
-https://bl.rutube.ru/livestream/6a91d8da3a2040b829adda18dc4fbd94/index.m3u8?s=IY5b6G3pXOqNPjgmsTJ3bg&e=1742979819&scheme=https
+https://bl.rutube.ru/livestream/6a91d8da3a2040b829adda18dc4fbd94/index.m3u8?s=_dCMBreLoxxgMA4Z9M6C5w&e=1743023023&scheme=https
 
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://дкмедведева.рф/media/2024/08/20/1330447914/2.jpg" group-title="Кинозалы Rutube", MARVEL TV на Русском
-https://bl.rutube.ru/livestream/06cad29bbb9ae5f5a06add7676579f76/index.m3u8?s=K2xEulpVAsIaLwgDnGjbUw&e=1742979819&scheme=https
+https://bl.rutube.ru/livestream/06cad29bbb9ae5f5a06add7676579f76/index.m3u8?s=YnqTm0vGAf73uM5aDMegFg&e=1743023023&scheme=https
 
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://дкмедведева.рф/media/2024/08/20/1330447914/2.jpg" group-title="Кинозалы Rutube", Аниме Эфир
-https://bl.rutube.ru/livestream/275d07d9601eeefbddfc2af30764ee86/index.m3u8?s=PL65e4wxW0Jf-f15pCa6EQ&e=1742979823&scheme=https
+https://bl.rutube.ru/livestream/275d07d9601eeefbddfc2af30764ee86/index.m3u8?s=XwiEzeejpcDcplIJkovPQg&e=1743023028&scheme=https
+
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://дкмедведева.рф/media/2024/08/20/1330447914/2.jpg" group-title="Кинозалы Rutube", Киножелезо
+https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=CZz9eBuf97l2uuX_0f8tQg&e=1743023030&scheme=https
 
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://дкмедведева.рф/media/2024/08/20/1330447914/2.jpg" group-title="Кинозалы Rutube", Кинолаффка
-https://bl.rutube.ru/livestream/3b7d1499da9396462bfd17282d758d30/index.m3u8?s=P3FUdl_bhO9yR_mza7femg&e=1742979825&scheme=https
+https://bl.rutube.ru/livestream/3b7d1499da9396462bfd17282d758d30/index.m3u8?s=ulxPoVwSUXRTo8KC_zzEFw&e=1743023030&scheme=https
 
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://дкмедведева.рф/media/2024/08/20/1330447914/2.jpg" group-title="Кинозалы Rutube", Кинолента 24
-https://bl.rutube.ru/livestream/23c568b69e0eada33560850484223739/index.m3u8?s=OkWJJ7Zrng_5Lavwved1Sg&e=1742979810&scheme=https
+https://bl.rutube.ru/livestream/23c568b69e0eada33560850484223739/index.m3u8?s=c1YB_t6m8sfMqeASA5CU9A&e=1743023014&scheme=https
 
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://дкмедведева.рф/media/2024/08/20/1330447914/2.jpg" group-title="Кинозалы Rutube", Сериалы Marvel на Русском TV
-https://bl.rutube.ru/livestream/9130347345aa2a6e8b73380ce98f9b00/index.m3u8?s=xbwpiu3ZOHlgouwTQws0DQ&e=1742979819&scheme=https
+https://bl.rutube.ru/livestream/9130347345aa2a6e8b73380ce98f9b00/index.m3u8?s=xB13BLS0DJUSKkZ88rKeow&e=1743023024&scheme=https
 
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://дкмедведева.рф/media/2024/08/20/1330447914/2.jpg" group-title="Кинозалы Rutube", Сериалы на Русском TV
-https://bl.rutube.ru/livestream/0c827406f4e9b1cbe3c2757237288501/index.m3u8?s=6Dh2_TpQu2hGEM8kShwrKg&e=1742979823&scheme=https
+https://bl.rutube.ru/livestream/0c827406f4e9b1cbe3c2757237288501/index.m3u8?s=TL-oC_OQVoOIiaMYCqvhAw&e=1743023028&scheme=https
 
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://дкмедведева.рф/media/2024/08/20/1330447914/2.jpg" group-title="Кинозалы Rutube", Среда
-https://bl.rutube.ru/livestream/5fa486bf465c8735fff9f41b372610cc/index.m3u8?s=Z3FniLf3dq-vzuAWC887IA&e=1742979822&scheme=https
+https://bl.rutube.ru/livestream/5fa486bf465c8735fff9f41b372610cc/index.m3u8?s=1NbL3Mz5HSmQv6HPwx9unQ&e=1743023070&scheme=https
 
 #EXTINF:-1tvg-id="no_epg_cinema" tvg-logo="https://дкмедведева.рф/media/2024/08/20/1330447914/2.jpg" group-title="Кинозалы Rutube", Твой 2007
-https://bl.rutube.ru/livestream/348ebaac61a382f2028e9a1b06f4f2b6/index.m3u8?s=gAcMEk-UR1DSvbHn2u5ZnA&e=1742979816&scheme=https
+https://bl.rutube.ru/livestream/348ebaac61a382f2028e9a1b06f4f2b6/index.m3u8?s=mah-rbS6x6iSeX5KnE-wFg&e=1743023020&scheme=https
 
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://дкмедведева.рф/media/2024/08/20/1330447914/2.jpg" group-title="Кинозалы Rutube", Ужас TV
-https://bl.rutube.ru/livestream/696bffe7b7be44aa1c64fda33c2cff5c/index.m3u8?s=8O5_tPIIv6gfnbrRYzoUaA&e=1742979824&scheme=https
+https://bl.rutube.ru/livestream/696bffe7b7be44aa1c64fda33c2cff5c/index.m3u8?s=vK8QvUctd32Fo-l4vdDmOw&e=1743023029&scheme=https
 
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://дкмедведева.рф/media/2024/08/20/1330447914/2.jpg" group-title="Кинозалы Rutube", Фильмы MIX
-https://bl.rutube.ru/livestream/5cba95431cbe796297c0fceb54d8edbd/index.m3u8?s=LyaRspkFDSfVkGbekdRYVA&e=1742979824&scheme=https
+https://bl.rutube.ru/livestream/5cba95431cbe796297c0fceb54d8edbd/index.m3u8?s=TjMYiLC2BAwthSXazs92tw&e=1743023029&scheme=https
 
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://дкмедведева.рф/media/2024/08/20/1330447914/2.jpg" group-title="Кинозалы Rutube", Фильмы получившие Оскар
-https://bl.rutube.ru/livestream/3b0fa3a71bd3f9c4857313447d32109f/index.m3u8?s=x2aQO0x8MCfVrbcBFWH1HQ&e=1742979819&scheme=https
+https://bl.rutube.ru/livestream/3b0fa3a71bd3f9c4857313447d32109f/index.m3u8?s=pCqr7YNXR6iMFvxWJPavNw&e=1743023023&scheme=https
 
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://дкмедведева.рф/media/2024/08/20/1330447914/2.jpg" group-title="Кинозалы Rutube", Эфир Фильм
-https://bl.rutube.ru/livestream/b895807523d756c82bd64c800edc93c6/index.m3u8?s=V8L48tqJL9_EC9yTuJP1XA&e=1742979824&scheme=https
+https://bl.rutube.ru/livestream/b895807523d756c82bd64c800edc93c6/index.m3u8?s=tX_xotecE2TYTw4trWCpyg&e=1743023029&scheme=https
 
 #EXTINF:-1 tvg-logo="http://i123.fastpic.org/big/2024/0628/cf/91db2c1896ea5cf538cf66fbe342cacf.png" group-title="Кинозалы Olsib [нестабильные]",Olsib USSR 30 FHD
 http://olsib.stream4k.ru:2095/USSR_30/index.m3u8?token=x8YjJ4bGHYU34fghnbjki
@@ -2727,7 +2724,7 @@ http://109.200.130.123:7537/play/a024
 http://api.peers.tv/timeshift/red/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDMwMzA5ODAsImlhdCI6MTc0Mjk0NDU4MCwiY2lkIjo2LCJ1aWQiOjkwNDM3MzA1NiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.LrbLilbqwcBm3WI-wAIkigfcZu_t57S3iDIbuTLHkTg&offset=3
 
 #EXTINF:-1 tvg-id="no_epg_mult" group-title="Детские" tvg-logo="https://avatars.mds.yandex.net/get-vthumb/4605649/0a036ba8539f17530bdb2f509c7f349f/564x318_1", Вселенная мультфильмов
-https://bl.rutube.ru/livestream/66710e44c6f796f0b754794ca2585229/index.m3u8?s=H0dqwx4ZQezEEOp9Z9pDEw&e=1742979807&scheme=https
+https://bl.rutube.ru/livestream/66710e44c6f796f0b754794ca2585229/index.m3u8?s=YSLoJIvBP1QgWnjEBE62Yw&e=1743023010&scheme=https
 
 #EXTINF:-1 tvg-id="no_epg_mult" group-title="Детские" tvg-logo="https://stream.sunset-media.org/images/AfE0MpsGM8EECV5bHCwLz0dG9BkK3CNuiLvuX3a_AjfhbAeRkt1I9egtCjPZSVzL.png", Sunset Kids
 https://stream.sunset-media.org:443/AfBrazXsUK/J9hGT3vYuv/5.m3u8
