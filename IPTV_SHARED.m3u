@@ -501,6 +501,9 @@ http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
 #EXTINF:-1 tvg-id="extreme-sports" group-title="Спортивные", Extreme sports
 http://109.200.130.123:7537/play/a02p
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/National_Olympic_Committee_of_Turkmenistan_logo.svg/1200px-National_Olympic_Committee_of_Turkmenistan_logo.svg.png" tvg-id="no_epg_sport" group-title="Спортивные", Turkmenistan Sport
+http://217.174.225.146/hls/ch004_720/index.m3u8
+
 #EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="https://i.imgur.com/XO8u1V7.png" group-title="Спортивные", IMPACT Wrestling
 https://d2tuwvs0ja335j.cloudfront.net/hls/1080p/playlist.m3u8
 
