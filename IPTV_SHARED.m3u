@@ -957,17 +957,8 @@ http://api.peers.tv/timeshift/galaxy_tv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1N
 #EXTINF:-1 tvg-id="nat-geo-wild" group-title="Познавательные", Nat Geo Wild
 https://tv.movielab.pro/162/video.m3u8?token=0611cc332313ae37512e5719c71c4f9759be9b19-e58e6413c095b4604ccdce90e19ab386-1746212275-1746125875
 
-#EXTINF:-1 tvg-id="nat-geo-wild" group-title="Познавательные", Nat Geo Wild HD
-http://188.237.47.212:6005
-
 #EXTINF:-1 tvg-id="national-geographic" group-title="Познавательные", National Geographic
 https://tv.movielab.pro/143/video.m3u8?token=6b9d04db806caa9ee2551bc01f23947da398dbfe-fe61cb7a35d5d34ec2ab1335ed03e51a-1746212275-1746125875
-
-#EXTINF:-1 tvg-id="national-geographic" group-title="Познавательные", National Geographic HD
-https://bl.rutube.ru/livestream/9f96e00ce0f4256c6ad608aaf580bf88/index.m3u8?s=eW8Fxdydifa6NV9sL7UARw&e=1746219881&scheme=https
-
-#EXTINF:-1 tvg-id="discovery-channel" group-title="Познавательные",Discovery HD
-https://bl.rutube.ru/livestream/f61701b91f0f15e49611bc2c85494d4b/index.m3u8?s=l7a6_s_Nouq2Ns5sQJu4nw&e=1746219882&scheme=https
 
 #EXTINF:-1 tvg-id="discovery-channel" group-title="Познавательные",Discovery Channel HD
 https://tv.movielab.pro/147/video.m3u8?token=bb3fc64d1cf8131adaf3069f5353b54dec85d517-8cc436bc65e657d2a5319b1c335d42e2-1746212275-1746125875
